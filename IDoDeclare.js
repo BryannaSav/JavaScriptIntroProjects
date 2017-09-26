@@ -1,0 +1,21 @@
+var unlucky = 13;
+var negative = -500;
+var pi = 3.14;
+var answer = 42;
+var myName = "Bryanna";
+var favFood = "Steak";
+var pet = "Nick Furry";
+var sunShining = true;
+var raining = false;
+var undefinined;
+console.log("An unlucky number", unlucky);
+console.log("A negative number", negative);
+console.log("The value of PI", pi);
+console.log("The answer to life, the universe and everything", answer);
+console.log("My Name", myName);
+console.log("My Favorite Food", favFood);
+console.log("My Cat's Name", pet);
+console.log("The sun is shining", sunShining);
+console.log("It is raining", raining);
+console.log("Undefinined Variable", undefinined);
+
